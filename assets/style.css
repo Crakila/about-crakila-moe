@@ -1,0 +1,76 @@
+body {
+            padding-top: 1rem;
+        }
+
+        .starter-template {
+            padding: 3rem 1.5rem;
+            text-align: center;
+        }
+
+/* Above is the default CSS rules. Everything below is my own custom rules. */
+
+.sakura::after {
+	    content: url("i/sakura.png");
+	    position: fixed;
+            right: 0;
+            bottom: 0;
+            z-index: 0;
+    } 
+
+.background {
+            background: url("i/pattern.jpg");
+        }
+        
+h1 {
+    color: blue;
+}
+
+titleheader {
+    color: aqua;
+    font-size: 64px;
+    font-family: "Permanent Marker";
+    text-shadow: 0px 4px gray;
+}
+titleheader2 {
+    color: aqua;
+    font-size: 24px;
+    font-family: "Permanent Marker";
+    text-shadow: 0px 4px gray;
+}
+
+p {
+    color: darkslategray;
+}
+
+.bodylinks {
+    padding: 3rem 1.5rem;
+    padding-top: 1%;
+    
+}
+
+.bodylink_text {
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    color: white;
+    font-size: 8px;
+}
+/* 
+.avatar {
+    content: url(i/avatar.jpg);
+    display: inline-block;
+    width: 15%;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto; 
+
+} */
+
+sub {
+    color: white;
+    width: 90%;
+    margin-right: auto;
+}

@@ -1,0 +1,115 @@
+Legend: + Addition, - Removal, * Changed
+
+CURRENT VERSION NOTES:
+0.8.1 - 2021-01-22
+- Removed avatar
+
+PREVIOUS VERSION NOTES:
+0.8 - 2021-01-17
+* Optimised the site speed and performance. This site is less than less than 150KB Uncompressed!
++ Added favicon
+* Changed Discord to Guilded
++ Added logo for "512KB Club" (We are in the Orange Team which means our site is less than 250KB)
+* Changed Twitter to Personal Account
+
+0.7.6 - 2020-08-11
+* Moved from crakila.moe to about.crakila.moe
++ Added Mastodon Single-User Instance at crakila.moe
++ Added link to Mastodon
+
+0.7.5 - 2020-07-19
++ Re-added Twitter, Discord, AniList & GitHub
+* Changed Avatar to new one.
+* Changed background.
+* Adjusted fonts for header.
+* Rearrangement of elements.
+
+0.7.4.1 - 2020-02-26
+- Removed all links for potential redesign
+
+0.7.4 - 2019-12-13
+* Change Mastodon Link from Sleeping.town to Koyu.space
+
+0.7.3 - 2019-09-01
+* Changed MAL link to AniList
+
+0.7.2 - 2019-08-06
+* Updated title of website
+* Added Mixer to Gaming page
+- Removed r34.ie
+
+0.7.1 - 2019-03-27
+* Updated Bootstrap
+
+0.7 - 2019-03-26
++ Added Twitter
++ Added Instagram
+* Updated MAL to have new username
+* Updated site. Cya Sakura...for now. 
++ Introducing the new 'Crakila' avatar. She is a cutie doe!
++ New font for heading.
+
+0.6.7 - 2019-03-04
++ Added MMORPG.social
+* Adjusted Layout of links
+
+0.6.6 - 2019-01-22
+- Removed Forum 
+
+0.6.5 - 2019-01-10
++ Added R34.ie - My own imageboard.
+
+0.6.4 - 2018-12-10
+- Remove WoW
++ Nintendo Switch Friend Code
++ Pok�mon GO Trainer Code
+
+0.6.3 - 2018-08-16
++ Added WoW linking to World of Warcraft Armory
+
+0.6.2 - 2018-08-09
+* Changed Mastodon to Sleeping.town as I have moved instance.
+
+0.6.1 - 2018-08-08
+- Removed Mastodon.irish
+* Fixed site so that it works in Firefox (Sorry about that ;P )
++ Added GitHub
+
+0.6 - 2018-06-02
+- Removed "FFXIV ACT" as it's not live 99.9% of the time.
++ Added "Keybase" so you know that I am legit.
+
+0.5.5 - 2018-06-01
+* Changed "Mastodon" to "Mastodon.social"
++ Added "Mastodon.irish"
+
+0.5 - 2018-05-16
++ Added "FFXIV" button which links to my character on the Lodestone
+
+0.4.5 - 2018-05-14
+* Changed all instances of vamp.moe to crakila.moe
+* Updated "Forum" link
+
+0.4 - 2018-05-11
+* Changed Kyot.me to Mastodon.social as Kyot has shut down :( 
+
+0.3.5 - 2018-05-04
+* Changed the Twitch Link from /VampiricPadraig to /Crakila
+
+0.3 - 2018-02-07
++ Added FFXIV ACT button. For when ACT is running while I am playing Final
+Fantasy XIV Online. 
+* Toying around with a new~ish layout for the buttons. Will do more stuff with
+them over the next few days or so (1) 
+
+0.2.1 - 2018-02-07
+* Changed the title (on tab) text
+
+0.2 - 2018-02-05
++ Added Ko-fi link. Buy me a coffee!
+* Adjusted tag line for site.
+* Changed background pattern
+
+0.1 - 2018-01-25 
++ Initial Changelog
++ Initial site.
