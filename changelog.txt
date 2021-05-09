@@ -1,10 +1,14 @@
 Legend: + Addition, - Removal, * Changed
 
 CURRENT VERSION NOTES:
+0.8.5 - 2021-05-09
+* Optimised site. 
+    * Removed fonts, reduced sakura to a small size. Changed to min.css. Cleaned up files.
+
+PREVIOUS VERSION NOTES:
 0.8.1 - 2021-01-22
 - Removed avatar
 
-PREVIOUS VERSION NOTES:
 0.8 - 2021-01-17
 * Optimised the site speed and performance. This site is less than less than 150KB Uncompressed!
 + Added favicon
