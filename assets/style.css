@@ -10,7 +10,7 @@ body {
 /* Above is the default CSS rules. Everything below is my own custom rules. */
 
 .sakura::after {
-	    content: url("i/sakura.gif");
+	    content: url("i/sakura_full.png");
 	    position: fixed;
             right: 0;
             bottom: 0;
