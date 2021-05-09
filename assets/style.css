@@ -10,8 +10,8 @@ body {
 /* Above is the default CSS rules. Everything below is my own custom rules. */
 
 .sakura::after {
-	    /* content: url("i/sakura.gif"); */
-        content: url("https://about.crakila.moe/u/2021/05/sakura.gif");
+	    content: url("i/sakura.gif");
+        /* content: url("https://about.crakila.moe/u/2021/05/sakura.gif"); */
 	    position: fixed;
             right: 0;
             bottom: 0;
