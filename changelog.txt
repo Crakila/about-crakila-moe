@@ -1,11 +1,14 @@
 Legend: + Addition, - Removal, * Changed
 
 CURRENT VERSION NOTES:
+0.8.5.1 - 2021-05-16
+- Removed 512KB Club notice. The site no longer follows their rules 
+
+PREVIOUS VERSION NOTES:
 0.8.5 - 2021-05-09
 * Optimised site. 
     * Removed fonts, reduced sakura to a small size. Changed to min.css. Cleaned up files.
 
-PREVIOUS VERSION NOTES:
 0.8.1 - 2021-01-22
 - Removed avatar
 
