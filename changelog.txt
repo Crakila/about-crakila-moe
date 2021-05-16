@@ -3,6 +3,7 @@ Legend: + Addition, - Removal, * Changed
 CURRENT VERSION NOTES:
 0.8.5.1 - 2021-05-16
 - Removed 512KB Club notice. The site no longer follows their rules 
+* Changed GitHub to GitLba 
 
 PREVIOUS VERSION NOTES:
 0.8.5 - 2021-05-09
