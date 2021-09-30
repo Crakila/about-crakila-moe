@@ -1,11 +1,15 @@
 Legend: + Addition, - Removal, * Changed
 
 CURRENT VERSION NOTES:
+0.8.6 - 2021-09-30
+- Removed all links
++ Added notice to say that the site has been closed.
+ 
+PREVIOUS VERSION NOTES:
 0.8.5.1 - 2021-05-16
 - Removed 512KB Club notice. The site no longer follows their rules 
 * Changed GitHub to GitLba 
 
-PREVIOUS VERSION NOTES:
 0.8.5 - 2021-05-09
 * Optimised site. 
     * Removed fonts, reduced sakura to a small size. Changed to min.css. Cleaned up files.
